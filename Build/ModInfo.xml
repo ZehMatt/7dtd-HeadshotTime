@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="HeadshotTime" />
+    <Description value="Natural headshot damage" />
+    <Author value="ZehMatt" />
+    <Version value="1.0.0" />
+    <Website value="" />
+  </ModInfo>
+  <Settings>
+    <!-- Kills ordinary zombies with one headshot -->
+    <HeadshotMultiplier value="3.0" />
+  </Settings>
+</xml>
